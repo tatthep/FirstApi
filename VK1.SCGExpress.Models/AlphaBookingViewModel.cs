@@ -39,5 +39,7 @@ namespace VK1.SCGExpress.Models {
         public string MerchantAddress { get; set; }
         public string MerchantContactPerson { get; set; }
         public string MerchantMobile { get; set; }
+        public string GeographicLocation { get; set; }
+
     }
 }

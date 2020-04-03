@@ -35,12 +35,10 @@ namespace VK1.SCGExpress.Models {
         public string Subdistrict { get; set; }
         public double Latitude { get; set; }
         public double Longitude { get; set; }
-        [JsonIgnore]
         public List<BookingData> BookingData { get; set; }
     }
 
     public class DeliveryOrderRequest {
-        [JsonIgnore]
         public List<MerchantData> MerchantData { get; set; }
         public int AppointmentDateId { get; set; }
         public int AppointmentTimeId { get; set; }

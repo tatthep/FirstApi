@@ -40,6 +40,7 @@ namespace VK1.SCGExpress.Mvc {
             ));
 
             services.AddScoped<AppQuery>();
+            services.AddTransient<Util>();
 
             services.AddControllersWithViews();
             services.AddRazorPages();
