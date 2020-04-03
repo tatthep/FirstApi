@@ -1,0 +1,12 @@
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\bin\Debug\netcoreapp3.0\VK1.SCGExpress.Services.deps.json
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\bin\Debug\netcoreapp3.0\VK1.SCGExpress.Services.dll
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\bin\Debug\netcoreapp3.0\VK1.SCGExpress.Services.pdb
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Services.csprojAssemblyReference.cache
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Services.AssemblyInfoInputs.cache
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Services.AssemblyInfo.cs
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Services.dll
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Services.pdb
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Services.csproj.CoreCompileInputs.cache
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\bin\Debug\netcoreapp3.0\VK1.SCGExpress.Models.dll
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\bin\Debug\netcoreapp3.0\VK1.SCGExpress.Models.pdb
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Services\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Services.csproj.CopyComplete

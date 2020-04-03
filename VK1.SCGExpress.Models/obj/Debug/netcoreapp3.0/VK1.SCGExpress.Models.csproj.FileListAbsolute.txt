@@ -1,0 +1,9 @@
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Models\bin\Debug\netcoreapp3.0\VK1.SCGExpress.Models.deps.json
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Models\bin\Debug\netcoreapp3.0\VK1.SCGExpress.Models.dll
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Models\bin\Debug\netcoreapp3.0\VK1.SCGExpress.Models.pdb
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Models\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Models.csprojAssemblyReference.cache
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Models\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Models.csproj.CoreCompileInputs.cache
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Models\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Models.AssemblyInfoInputs.cache
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Models\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Models.AssemblyInfo.cs
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Models\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Models.dll
+D:\2020\SCGEXPRESS\SAFETY\API\VK1.SCGExpress\VK1.SCGExpress.Models\obj\Debug\netcoreapp3.0\VK1.SCGExpress.Models.pdb

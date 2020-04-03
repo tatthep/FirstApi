@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "VK1.SCGExpress.Models/1.0.0": {
+        "runtime": {
+          "VK1.SCGExpress.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VK1.SCGExpress.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

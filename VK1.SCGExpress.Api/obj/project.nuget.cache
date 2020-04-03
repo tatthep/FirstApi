@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9uYh81izEebXrFKQ1WyhYDDIBHAsPAze3eYWi0PHjE5lebemAD4GFuUgqr9JOJTS543zGeCEsSTK/7PXEghOlg==",
+  "success": true,
+  "projectFilePath": "D:\\2020\\SCGEXPRESS\\SAFETY\\API\\VK1.SCGExpress\\VK1.SCGExpress.Api\\VK1.SCGExpress.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VK1.TATTHEP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\VK1.TATTHEP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\VK1.TATTHEP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\VK1.TATTHEP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
